@@ -26,3 +26,5 @@ Texas Instruments INA700 Product Page: https://www.ti.com/product/INA700
 ## License
 This project is licensed under the CERN Open Hardware License Strongly Reciprocal (CERN-OHL-S) v2.0.  
 For more details, see the [LICENSE](./LICENSE) file or visit the [official CERN-OHL website](https://ohwr.org/cern_ohl).
+
+<a href="https://www.tindie.com/stores/theflamingo/?ref=offsite_badges&utm_source=sellers_TheFlamingo&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
