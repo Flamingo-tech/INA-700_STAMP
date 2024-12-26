@@ -20,6 +20,7 @@ Have fun with it!
 
 More info on the INA700:
 Texas Instruments INA700 Datasheet: https://www.ti.com/lit/ds/symlink/ina700.pdf
+
 Texas Instruments INA700 Product Page: https://www.ti.com/product/INA700
 
 ## License
