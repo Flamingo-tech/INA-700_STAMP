@@ -18,6 +18,10 @@ THT Variant:
 
 Have fun with it!
 
+More info on the INA700:
+Texas Instruments INA700 Datasheet: https://www.ti.com/lit/ds/symlink/ina700.pdf
+Texas Instruments INA700 Product Page: https://www.ti.com/product/INA700
+
 ## License
 This project is licensed under the CERN Open Hardware License Strongly Reciprocal (CERN-OHL-S) v2.0.  
 For more details, see the [LICENSE](./LICENSE) file or visit the [official CERN-OHL website](https://ohwr.org/cern_ohl).
