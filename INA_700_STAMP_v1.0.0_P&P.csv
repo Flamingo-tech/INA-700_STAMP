@@ -1,0 +1,16 @@
+Date:       25-12-24
+Time:       18:24
+Revision: V1.0.0
+Variant:    No variations
+Units used: mm
+
+"Designator,""Comment"",""Layer"",""Footprint"",""Center-X(mm)"",""Center-Y(mm)"",""Rotation"",""Description"""
+"U1,""INA700AYWFR"",""TopLayer"",""YWF0008A-PowerWCSP_-_0.3mm"",""8.9000"",""7.9500"",""0"",""40-V 16-Bit I²C output digital power monitor"""
+"R2,""ERJ-2RKF1002X"",""TopLayer"",""SMD-0402-RES"",""8.0910"",""5.8980"",""270"",""RES ,SMT, 10kO, 1%, 100mW, 100ppm/°C  0402"""
+"C1,""CM05X5R475M25AH"",""TopLayer"",""SMD-0402-CAP"",""7.6160"",""7.1730"",""180"",""CAP MLCC 0402 4.7uF 20% 25V X5R 0402"""
+"X2,""622002115121"",""TopLayer"",""622002115121-Footprint-1"",""-25.4000"",""-25.4000"",""90"",""Interconnection Device"""
+"X1,""62100821021"",""TopLayer"",""62100821021"",""13.3325"",""6.4346"",""90"",""Board Connector, 8 Contact(s), 2 Row(s), Male, Straight, 0.05 inch Pitch, Surface Mount Terminal, Black Insulator, Receptacle"""
+"R3,""ERJ-2RKF1001X"",""TopLayer"",""SMD-0402-RES"",""4.3150"",""7.6200"",""270"",""RES ,SMT, 1kO, 1%, 100mW, 100ppm/°C  0402"""
+"R1,""ERJ-2RKF1001X"",""TopLayer"",""SMD-0402-RES"",""4.3150"",""5.0800"",""270"",""RES ,SMT, 1kO, 1%, 100mW, 100ppm/°C  0402"""
+"D2,""150040GS73240"",""TopLayer"",""SMD-0402-LED-0.4H"",""2.5450"",""7.6200"",""180"",""LED ,SMT, GREEN, 30mA, 3.2V  0402"""
+"D1,""150040RS73240"",""TopLayer"",""SMD-0402-LED-0.4H_RED"",""2.5450"",""5.0800"",""180"",""LED ,SMT, RED, 30mA, 3.2V  0402"""
